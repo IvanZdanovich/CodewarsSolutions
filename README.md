@@ -21,11 +21,11 @@ Creating a repository like this is discouraged by Codewars platform.
 **C#**
 
 * 7 kui:
-  * [Credit Card Mask](C\#/7kui/CreditCardMask/)
-  * [Isograms](C\#/7kui/Isograms/)
+  * [Credit Card Mask](CSharp/7kui/CreditCardMask/)
+  * [Isograms](CSharp/7kui/Isograms/)
 * 6 kui:
-  * [Delete occurrences of an element if it occurs more than n times](C\#/6kui/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes/)
-  * [Sum of Digits / Digital Root](C\#/6kui/SumOfDigitsOrDigitalRoot/)
-  * [Multiples of 3 or 5](C\#/6kui/MultiplesOf3Or5/)
+  * [Delete occurrences of an element if it occurs more than n times](CSharp/6kui/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes/)
+  * [Sum of Digits / Digital Root](CSharp/6kui/SumOfDigitsOrDigitalRoot/)
+  * [Multiples of 3 or 5](CSharp/6kui/MultiplesOf3Or5/)
   
   
